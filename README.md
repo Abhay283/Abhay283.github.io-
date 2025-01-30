@@ -11,12 +11,12 @@
   </a>
 </div>
 <br/>
-<a href="https://github.com/thepranaygupta/thepranaygupta.github.io"><img src="https://sloc.xyz/github/thepranaygupta/thepranaygupta.github.io" alt="Total lines"></a>
-<a href="https://github.com/thepranaygupta/thepranaygupta.github.io"><img src="https://visitor-badge.laobi.icu/badge?page_id=thepranaygupta/thepranaygupta.github.io" alt="Number of Visitors"></a>
-<a href="https://github.com/thepranaygupta/thepranaygupta.github.io/stargazers"><img src="https://img.shields.io/github/stars/thepranaygupta/thepranaygupta.github.io" alt="github stars"></a>
-<a href="https://github.com/thepranaygupta/thepranaygupta.github.io/network/members"><img src="https://img.shields.io/github/forks/thepranaygupta/thepranaygupta.github.io" alt="github forks"></a>
-<a href="https://thepranaygupta.github.io/"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
-<a href="https://www.linkedin.com/in/thepranaygupta/"><img src="https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg" alt="linkedin"></a>
+<a href="https://github.com/theAbhay283/theAbhay283.github.io"><img src="https://sloc.xyz/github/theAbhay283/theAbhay283.github.io" alt="Total lines"></a>
+<a href="https://github.com/theAbhay283/theAbhay283.github.io"><img src="https://visitor-badge.laobi.icu/badge?page_id=theAbhay283/theAbhay283.github.io" alt="Number of Visitors"></a>
+<a href="https://github.com/theAbhay283/theAbhay283.github.io/stargazers"><img src="https://img.shields.io/github/stars/theAbhay283/theAbhay283.github.io" alt="github stars"></a>
+<a href="https://github.com/theAbhay283/theAbhay283.github.io/network/members"><img src="https://img.shields.io/github/forks/theAbhay283/theAbhay283.github.io" alt="github forks"></a>
+<a href="https://theAbhay283.github.io/"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
+<a href="https://www.linkedin.com/in/theAbhay283/"><img src="https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg" alt="linkedin"></a>
 </div>
 ⭐ Star this repo on GitHub — it helps!
 ## Features 📋
