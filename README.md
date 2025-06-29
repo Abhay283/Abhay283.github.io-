@@ -32,7 +32,7 @@
 ✔️ Projects\
 ✔️ Contact Me\
 ✔️ Footer
-To view a live example, **[click here](https://thepranaygupta.github.io/)**
+To view a live example, **[click here](https://theabhaygupta.github.io/)**
 ## Tools Used 🛠️
 - [**GitHub Pages**](https://docs.github.com/en/pages) - To host my static website (HTML, CSS, JS).
 - [**Font Awesome**](https://fontawesome.com/) - A font and icon toolkit based on CSS.
